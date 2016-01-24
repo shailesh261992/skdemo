@@ -1,0 +1,6 @@
+2016-01-22 13:18:45,543 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: no.steras.opensamlbook:webprofile-ref-project:1.0-SNAPSHOT @ /home/shailesh/opensaml/webprofile-ref-project/pom.xml.
+2016-01-22 13:36:02,676 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: no.steras.opensamlbook:webprofile-ref-project:1.0-SNAPSHOT @ /home/shailesh/opensaml/webprofile-ref-project/pom.xml.
+2016-01-22 13:38:41,659 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-22 13:38:41,864 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-01-22 13:38:41,933 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-22 13:38:41,934 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shailesh/opensaml/webprofile-ref-project/src/test/resources
